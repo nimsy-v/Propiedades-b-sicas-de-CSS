@@ -16,13 +16,13 @@ Objetivos del proyecto:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/nimsy-v/
+   git clone https://github.com/nimsy-v/Propiedades-b-sicas-de-CSS.git
    ```
 
 2. Despues de clonar el repositorio en una terminar ejecutar el siguiente comando:
 
    ```bash
-   git remote add origin https://github.com/nimsy-v/
+   git remote add origin https://github.com/nimsy-v/Propiedades-b-sicas-de-CSS.git
    ```
 
 3. Para verificar que se configuro correctamente ejecutar el siguiente comando:
@@ -35,7 +35,7 @@ Objetivos del proyecto:
 
 ## Enlace para vizualar en GitHub Pages
 
-- GitHub Pages: [Propiedades básicas de CSS]()
+- GitHub Pages: [Propiedades básicas de CSS](https://nimsy-v.github.io/Propiedades-b-sicas-de-CSS/)
 
 ## Autor
 
